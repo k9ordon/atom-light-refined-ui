@@ -1,8 +1,8 @@
 {
-  "name": "atom-light-ui",
+  "name": "atom-light-refined-ui",
   "theme": "ui",
   "version": "0.22.0",
-  "description": "Default light theme for interface components",
+  "description": "Forked light theme for atom interface components. by k9ordon",
   "repository": "https://github.com/atom/atom-light-ui.git",
   "license": "MIT",
   "engines": {
